@@ -34,7 +34,7 @@ jobs:
           node-version: 16
           cache: "yarn"
       - name: Build
-        run: yarn && yarn build
+        run: ./build.sh
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
