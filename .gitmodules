@@ -1,3 +1,4 @@
-[submodule "markdown-pages/zh/tidb/docs-cn"]
+[submodule "markdown-pages/zh/tidb/master"]
 	path = markdown-pages/zh/tidb/master
 	url = git@github.com:pingcap/docs-cn.git
+	branch = leoppro/refine-ticdc
