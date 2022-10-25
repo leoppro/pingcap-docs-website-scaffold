@@ -1,0 +1,3 @@
+[submodule "markdown-pages/zh/tidb/docs-cn"]
+	path = markdown-pages/zh/tidb/master
+	url = git@github.com:pingcap/docs-cn.git
